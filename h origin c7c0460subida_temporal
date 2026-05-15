@@ -1,0 +1,17 @@
+[33mf713d9b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'main' of https://github.com/AngelHernandezCardenas/KillandDead
+[33m5e3c2eb[m Merge branch 'main' of https://github.com/AngelHernandezCardenas/KillandDead
+[33m8a5126c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m feat: add character animations, materials, and physics assets for main protagonist implementation
+[33m5977237[m feat: add character animations and update third-person character blueprint
+[33ma04c12b[m feat: add ThirdPersonExampleMap and Protagonista material definitions
+[33m27072e3[m feat: initialize project assets, character animations, idle, walking, crouching, and jumping
+[33me1b4421[m Implementación de más edificios en el mapa principal
+[33ma137f9a[m Follaje V2
+[33mc7c0460[m Follaje añadido y extras
+[33m06676da[m Ampliaciones del mapa para evaluación 2
+[33mcc64b5e[m Mejoras del mapa para implementar follaje.
+[33mcbfd320[m pre-Textura de Río
+[33mb3bac20[m Personaje
+[33mf59dd04[m Muro de contorno y edificios
+[33m030d1b1[m Cambio de textura
+[33mb7e2237[m Cambio del patrón en texturas
+[33mdd6e82f[m Initial commit
